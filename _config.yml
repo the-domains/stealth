@@ -2,12 +2,13 @@ name: Stealth
 favicon: null
 layout_spectrum: 0.3425467552151531
 typography_spectrum: 0.48329580132849514
+title: We make websites skyrocket.
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-74654992-1
   facebook: null
   twitter: null
 opengraph:
