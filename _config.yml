@@ -1,4 +1,4 @@
-name: Stealth Model
+name: The Grid Test Location - Stealth Model
 favicon: null
 layout_spectrum: 0
 typography_spectrum: 0.58961
@@ -23,7 +23,7 @@ color:
     - '#d53e1b'
     - '#969696'
   brandStrength: 1
-  lightness: 0.8125
-  saturation: 0.6875
-  rhythmicContrast: 1
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 0.5
 purpose: []
