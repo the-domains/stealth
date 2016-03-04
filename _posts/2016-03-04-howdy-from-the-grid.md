@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: First nerdy post of many.
-datePublished: '2016-03-04T12:10:44.924Z'
-dateModified: '2016-03-04T12:10:37.427Z'
+datePublished: '2016-03-04T12:43:55.704Z'
+dateModified: '2016-03-04T12:43:52.750Z'
 title: "That's one cool grid..."
 author: []
 sourcePath: _posts/2016-03-04-howdy-from-the-grid.md
