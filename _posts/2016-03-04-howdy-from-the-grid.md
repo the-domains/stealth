@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: First nerdy post of many.
-datePublished: '2016-03-04T11:05:50.375Z'
-dateModified: '2016-03-04T11:05:49.663Z'
+datePublished: '2016-03-04T12:10:44.924Z'
+dateModified: '2016-03-04T12:10:37.427Z'
 title: "That's one cool grid..."
 author: []
 sourcePath: _posts/2016-03-04-howdy-from-the-grid.md
@@ -23,10 +23,10 @@ _type: Article
 
 ---
 # That's one cool grid...
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/80502cc6-db3e-4dbe-9578-05689dd2b86a.jpg)
+![It's a pretty cool pic of a grid.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/683eba8309898bd894e61fcbba52940b1a7fcf46.jpg)
 
 Finally got in, yay! Only had to wait a year but anyway. That much was clear from the get go. Let's see what this bad boy can (and can't) do...
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b50cb50-6d99-4ea9-8476-89c932959622.jpg)
+![It's the Gutenberg bible. What's not to like?](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e96452b8c126a5e13d9ee25884772697fc81afc7.jpg)
 
 Ok that's a cool pic of the Gutenberg bible. No biggie. So why did I choose that pic? No reason.
 
