@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-04T12:42:48.601Z'
-dateModified: '2016-03-04T12:40:12.067Z'
+datePublished: '2016-03-04T12:49:42.523Z'
+dateModified: '2016-03-04T12:48:57.501Z'
 title: The Grid review - part 2/3
 author: []
+sourcePath: _posts/2016-03-04-the-grid-review-part-23.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-04-the-grid-review-part-23.md
-published: true
 url: the-grid-review-part-23/index.html
 _type: Article
 
@@ -25,6 +25,8 @@ _type: Article
 # The Grid review - part 2/3
 
 As I'm typing this I'm also typing my first support request. It seems The Grid still has some kinks that need fixing. Whatever you type as the site title when you first create the site will be there forever. Even if you try to change it. I'm sure this is fixed at some point. But if you happen to typo or just change your mind it's kind of annoying. Just saying.
+
+UPDATE: the site title went live after waiting an hour or so.
 
 In this post I'll have a look at the first impressions from creating my very first site with The Grid. There'll be plenty of screenshots and explanation. Hooray.
 
@@ -55,7 +57,9 @@ Because I didn't tell The Grid what I really want the site to look like. Let's d
 Back in the dashboard there's a tab called design. Let's go there.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/732fd1ac-25ce-4df6-a9f0-24639abe3e0a.png)
 
-And we're back. Just lost a couple of paragraphs after images stopped uploading. Let's type them again!
+BOOM! Images didn't finish uploading, lost some text.
+
+And we're back. Just lost a couple of paragraphs after images stopped uploading. Let's type all of that again!
 
 As I was saying (which you wouldn't know unless I tell you) you can add a color palette by uploading a picture and then adjusting colors and the overall feel by pulling sliders with weirdish names on them. 
 
