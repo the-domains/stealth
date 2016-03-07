@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T12:21:30.942Z'
-dateModified: '2016-03-07T11:02:13.714Z'
+datePublished: '2016-03-07T12:44:37.413Z'
+dateModified: '2016-03-07T12:44:31.574Z'
 title: The Grid Review - part 2/3
 author: []
 sourcePath: _posts/2016-03-04-the-grid-review-part-23.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: the-grid-review-part-23/index.html
-_type: Article
+_type: WebPage
 
 ---
 # The Grid Review - part 2/3
@@ -99,6 +99,8 @@ Things I like:
 Things I don't like:
 
 * Can't underline or strikethrough :(
+* Can't do H3-H6 styles at all. All you've got is H1, H2, paragraphs, unordered lists and quotes. Probably gets better over time.
+* It makes weird little mistakes. Eg. when selecting and removing some text it sometimes erases something around the selection.
 
 I guess this post is done. See you in post \#3\.
 
