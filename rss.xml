@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Definitive Grid State of The Union]]></title>
-        <description><![CDATA[The Definitive Grid State of The Union]]></description>
-        <link>https://thegrid.ai/stealth/</link>
+        <title><![CDATA[All things "The Grid" - updated weekly!]]></title>
+        <description><![CDATA[All things "The Grid" - updated weekly!]]></description>
+        <link>http://grid.stealthmodel.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 10:27:24 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/stealth/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 07 Mar 2016 11:00:12 GMT</lastBuildDate>
+        <atom:link href="http://grid.stealthmodel.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Grid review - part 2/3]]></title>
             <description><![CDATA[<article><h1>The Grid review - part 2/3</h1><p>As I'm typing this I'm also typing my first support request. It seems The Grid still has some kinks that need fixing. Whatever you type as the site title when you first create the site will be there forever. Even if you try to change it. I'm sure this is fixed at some point. But if you happen to typo or just change your mind it's kind of annoying. Just saying.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c61d909d3bb86e64aa3cee851515020c/croprotate.jpg?cropheight=757&cropwidth=1600&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fd3247cd2-3c1c-488d-8cc7-4264bc71b67c.jpg&x=0&y=212"></article>]]></description>
-            <link>https://thegrid.ai/stealth/the-grid-review-part-23/index.html</link>
+            <link>http://grid.stealthmodel.com/the-grid-review-part-23/index.html</link>
             <guid isPermaLink="false">6f916afa-e382-42c5-b0b3-385186f34dc0</guid>
             <pubDate>Fri, 04 Mar 2016 12:49:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Definitive Grid State of The Union post - part 1 of 3]]></title>
-            <description><![CDATA[<article><h1>The Definitive Grid State of The Union post - part 1 of 3</h1><p>Welcome to the Grid State of The Union! I'm founding member #26758 and in this lengthy series of posts I'll be exploring what The (current) Grid can and can't do. This is the first post in the series and the first post I've ever published with The Grid. </p></article>]]></description>
-            <link>https://thegrid.ai/stealth/howdy-from-the-grid/index.html</link>
+            <title><![CDATA[The Grid Review - part 1 of 3]]></title>
+            <description><![CDATA[<article><h1>The Grid Review - part 1 of 3</h1><p>Welcome to the Definitive Grid State of The Union! I'm the Founding Member #26758 and in this lengthy series of posts I'll be exploring what The (current) Grid can and can't do. This is the first post in the series and the first post I've ever published with The Grid. </p></article>]]></description>
+            <link>http://grid.stealthmodel.com/howdy-from-the-grid/index.html</link>
             <guid isPermaLink="false">74b27f6b-586e-4786-be5c-c94642dfb737</guid>
-            <pubDate>Mon, 07 Mar 2016 10:26:24 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2016 10:59:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
