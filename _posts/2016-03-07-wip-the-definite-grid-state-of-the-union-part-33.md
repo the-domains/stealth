@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Part 3 of 3: Why The Grid is (and should be) in Beta for the time being.'
-datePublished: '2016-03-07T12:38:51.425Z'
-dateModified: '2016-03-07T12:38:41.975Z'
+datePublished: '2016-03-07T12:46:39.017Z'
+dateModified: '2016-03-07T12:39:01.177Z'
 title: The Grid Review - part 3/3
 author: []
 sourcePath: _posts/2016-03-07-wip-the-definite-grid-state-of-the-union-part-33.md
