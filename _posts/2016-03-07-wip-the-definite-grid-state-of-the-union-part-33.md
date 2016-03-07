@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-07T11:02:44.476Z'
-dateModified: '2016-03-07T09:25:59.935Z'
+description: 'Part 3 of 3: Why The Grid is (and should be) in Beta.'
+datePublished: '2016-03-07T12:21:57.397Z'
+dateModified: '2016-03-07T11:03:37.905Z'
 title: WIP - The Definite Grid State of The Union - part 3/3
 author: []
+sourcePath: _posts/2016-03-07-wip-the-definite-grid-state-of-the-union-part-33.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-07-wip-the-definite-grid-state-of-the-union-part-33.md
-published: true
 url: wip-the-definite-grid-state-of-the-union-part-33/index.html
-_type: Article
+_type: WebPage
 
 ---
 # WIP - The Definite Grid State of The Union - part 3/3
