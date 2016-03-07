@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: First nerdy post of many.
-datePublished: '2016-03-07T12:38:12.256Z'
-dateModified: '2016-03-07T12:21:13.996Z'
+datePublished: '2016-03-07T12:45:42.954Z'
+dateModified: '2016-03-07T12:45:38.566Z'
 title: The Grid Review - part 1 of 3
 author: []
 sourcePath: _posts/2016-03-04-howdy-from-the-grid.md
@@ -42,11 +42,13 @@ It goes on and on.
 
 People are not very patient after they've decided to dig their pockets for their hard-earned cash. Even if it should be clear from the get-go that this is not a sure thing. But crowdfunding could be an entire series on its own.
 
-Moving on. Here's the breakdown of the posts:
+Moving on. 
+
+**Here's the breakdown of the posts:**
 
 Part 1 (this post) will focus on the initial, overall experience from the moment I got the "You're in!" email to publishing my first post (the one you're reading right now). 
 
-Part 2 will focus on the Design/Visual editor, drafting posts, publishing them and whether or not it's possible to get something decent out of it without spending hours on it. _Disclaimer: I'm not a designer._
+[Part 2][5] will focus on the Design/Visual editor, drafting posts, publishing them and whether or not it's possible to get something decent out of it without spending hours on it. _Disclaimer: I'm not a designer._
 
 Part 3 will be dedicated to the quirks and bugs I encountered while writing this series. The title will be along the lines of "Why The Grid is and should still be in Beta."
 
@@ -60,6 +62,8 @@ My wait lasted about 51 weeks from the moment I became a Founding Member. I knew
 
 With about 200 new users every day, it won't be long now. Be patient a little longer.
 
+TODO: the actual post.
+
 See you in the next post! I'll be looking at the post editor, drafts, publishing, the visual editor and all the every-day things.
 
 [0]: https://thegrid.io/
@@ -67,3 +71,4 @@ See you in the next post! I'll be looking at the post editor, drafts, publishing
 [2]: https://www.facebook.com/permalink.php?story_fbid=1336194039741467&id=1003604796333728
 [3]: 74b27f6b-586e-4786-be5c-c94642dfb737
 [4]: https://www.facebook.com/permalink.php?story_fbid=1333164760044395&id=1003604796333728
+[5]: http://grid.stealthmodel.com/the-grid-review-part-23/
