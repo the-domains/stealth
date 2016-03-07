@@ -1,7 +1,7 @@
 name: The Grid Test Location - Stealth Model
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.74874
+layout_spectrum: 0.47579
+typography_spectrum: 0.79299
 title: The Definitive Grid State of The Union
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#d53e1b'
     - '#969696'
   brandStrength: 1
-  lightness: 0.9375
-  saturation: 0.1875
-  rhythmicContrast: 0.75
+  lightness: 0.5625
+  saturation: 0.4375
+  rhythmicContrast: 0.5
 purpose: []
