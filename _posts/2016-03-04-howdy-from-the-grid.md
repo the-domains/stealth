@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: First nerdy post of many.
-datePublished: '2016-03-07T10:59:57.576Z'
-dateModified: '2016-03-07T10:58:44.378Z'
+datePublished: '2016-03-07T12:21:03.292Z'
+dateModified: '2016-03-07T11:00:02.341Z'
 title: The Grid Review - part 1 of 3
 author: []
 sourcePath: _posts/2016-03-04-howdy-from-the-grid.md
