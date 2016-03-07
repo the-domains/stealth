@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: First nerdy post of many.
-datePublished: '2016-03-07T12:21:03.292Z'
-dateModified: '2016-03-07T11:00:02.341Z'
+datePublished: '2016-03-07T12:38:12.256Z'
+dateModified: '2016-03-07T12:21:13.996Z'
 title: The Grid Review - part 1 of 3
 author: []
 sourcePath: _posts/2016-03-04-howdy-from-the-grid.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: howdy-from-the-grid/index.html
-_type: Article
+_type: WebPage
 
 ---
 # The Grid Review - part 1 of 3
