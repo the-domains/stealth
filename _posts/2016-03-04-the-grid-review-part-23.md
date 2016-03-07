@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T11:02:04.662Z'
-dateModified: '2016-03-07T11:01:07.744Z'
+datePublished: '2016-03-07T12:21:30.942Z'
+dateModified: '2016-03-07T11:02:13.714Z'
 title: The Grid Review - part 2/3
 author: []
 sourcePath: _posts/2016-03-04-the-grid-review-part-23.md
