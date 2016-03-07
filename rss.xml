@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[All things "The Grid" - updated weekly!]]></title>
         <description><![CDATA[All things "The Grid" - updated weekly!]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://grid.stealthmodel.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 13:02:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 07 Mar 2016 13:11:49 GMT</lastBuildDate>
+        <atom:link href="http://grid.stealthmodel.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Grid Support Site (Zendesk)]]></title>
+            <description><![CDATA[<article><h1>The Grid Support Site (Zendesk)</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2e790b9dadfaf3ca0319fec847976baf3e002f1d.png"></article>]]></description>
+            <link>http://grid.stealthmodel.com/the-grid-support-site-zendesk/index.html</link>
+            <guid isPermaLink="false">a7d605c1-8f02-4568-8e26-249b3ab97e1a</guid>
+            <pubDate>Mon, 07 Mar 2016 13:11:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[So what should I use The Grid for anyway?]]></title>
             <description><![CDATA[<article><h1>So what should I use The Grid for anyway?</h1><p>Back when I wrote The Definitive Grid State of The Union I didn't delve that much into why anybody should even use The Grid and what kind of content it's suited for. This post attempts to address some of that.</p></article>]]></description>
-            <link>undefinedso-what-should-i-use-the-grid-for-anyway/index.html</link>
+            <link>http://grid.stealthmodel.com/so-what-should-i-use-the-grid-for-anyway/index.html</link>
             <guid isPermaLink="false">5ae88a73-f280-4159-af83-70a1721c607e</guid>
             <pubDate>Mon, 07 Mar 2016 13:02:48 GMT</pubDate>
         </item>
